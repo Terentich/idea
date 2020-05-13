@@ -1,0 +1,75 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/workspace/bigdata-training" value="PREVIEW" />
+            <entry key="C:/work/ahml-dwh/airflow-dag-common-module" value="PREVIEW" />
+            <entry key="C:/work/ahml-dwh/fund-adapter-airflow" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="IssueNavigationConfiguration">
+        <option name="links">
+          <list>
+            <IssueNavigationLink>
+              <option name="issueRegexp" value="[A-Z]+\-\d+" />
+              <option name="linkRegexp" value="https://jiraeu.epam.com/browse/$0" />
+            </IssueNavigationLink>
+          </list>
+        </option>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2752404" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

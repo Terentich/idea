@@ -1,0 +1,54 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="C:/work/nbs-crm/dice/dice-spark/src/main/scala/com/epam/nbs/spark/transformation/edm2dm/CallNationalKpiUtils.scala" timestamp="1583936155180">
+        <mark key="[" line="478" column="47" />
+        <mark key="]" line="478" column="46" />
+        <mark key="^" line="478" column="46" />
+        <mark key="." line="478" column="46" />
+      </file>
+      <file name="C:/work/nbs-crm/dice/dice-spark/src/test/scala/com/epam/nbs/spark/transformation/edm2dm/CallNationalKpiUtilsTest.scala" timestamp="1583936502843">
+        <mark key="r" line="198" column="69" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

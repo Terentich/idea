@@ -1,0 +1,12 @@
+<templateSet group="Python">
+  <template name="trace" value="import pydevd&#10;pydevd.settrace('10.66.76.70', port=1092, stdoutToServer=True, stderrToServer=True)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="printdict" value="'\n'.join(&quot;{} = {}&quot;.format(k,v) for k,v in dict.items())" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
