@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\dice20-uk\src\test\scala\com\epam\nbs\spark\transformation\edm2dmsi\domain\gbfactsales\GbFactSalesDmSiFetcherTest.scala [dice20-uk]'" />
-    <option name="defaultScopeName" value="File '...\dice20-uk\src\test\scala\com\epam\nbs\spark\transformation\edm2dmsi\domain\gbfactsales\GbFactSalesDmSiFetcherTest.scala [dice20-uk]'" />
-    <option name="SEARCH_SCOPE" value="File '...\dice20-uk\src\test\scala\com\epam\nbs\spark\transformation\edm2dmsi\domain\gbfactsales\GbFactSalesDmSiFetcherTest.scala [dice20-uk]'" />
-    <option name="FILE_MASK" value="*" />
+    <option name="customScope" value="CPD2022-9646 [DICE2][UK][EV] gb_fact_sales move distinct from the whole table to segment data set" />
+    <option name="defaultScopeName" value="CPD2022-9646 [DICE2][UK][EV] gb_fact_sales move distinct from the whole table to segment data set" />
+    <option name="SEARCH_SCOPE" value="CPD2022-9646 [DICE2][UK][EV] gb_fact_sales move distinct from the whole table to segment data set" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,7 +15,7 @@
     <mask>*.sql</mask>
     <mask>*.*</mask>
     <mask>*.scala</mask>
-    <mask>*.yaml</mask>
     <mask>*</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>

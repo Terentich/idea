@@ -111,13 +111,16 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
+                      <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*Failed to get database global_temp, returning NoSuchObjectException.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="inputFilter" value="true" />
                       <option name="unlessGrepExpression" value="" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="grepExpression" value="Truncated the string representation of a plan since it was too large" />
+                      <option name="caseInsensitive" value="true" />
+                      <option name="grepExpression" value=".*Truncated the string representation of a plan.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
@@ -127,6 +130,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
+          <option name="maxLengthToMatch" value="200" />
           <option name="name" value="default" />
         </Profile>
       </list>
