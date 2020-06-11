@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\dice-spark\src\main\scala\com\epam\nbs\core\transformation\udl2edm\domain\event_inviting_user\EventInvitingUserEdmFetcher.scala [dice-transformations-scala]'" />
+    <option name="defaultScopeName" value="File '...\dice-spark\src\main\scala\com\epam\nbs\core\transformation\udl2edm\domain\event_inviting_user\EventInvitingUserEdmFetcher.scala [dice-transformations-scala]'" />
+    <option name="SEARCH_SCOPE" value="File '...\dice-spark\src\main\scala\com\epam\nbs\core\transformation\udl2edm\domain\event_inviting_user\EventInvitingUserEdmFetcher.scala [dice-transformations-scala]'" />
     <option name="FILE_MASK" value="*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
