@@ -34,6 +34,14 @@
           <option name="url" value="git@git.epam.com:nbs-crm/nbs-dice20.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.epam.com/nbs-crm/nbs-data-freeze.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.epam.com" />
+          <option name="userName" value="Aleksei_Terentev1" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\work\nbs-crm" />
