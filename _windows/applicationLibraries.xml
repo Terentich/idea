@@ -1,27 +1,13 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (airflow) interpreter library">
+    <library name="Python 3.6 (venv) interpreter library">
       <CLASSES>
         <root url="file://C:/Program Files/Python36/DLLs" />
         <root url="file://C:/Program Files/Python36/Lib" />
         <root url="file://C:/Program Files/Python36" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Program Files/Python36/DLLs" />
-        <root url="file://C:/Program Files/Python36/Lib" />
-        <root url="file://C:/Program Files/Python36" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (python) interpreter library">
-      <CLASSES>
-        <root url="file://C:/Program Files/Python36/DLLs" />
-        <root url="file://C:/Program Files/Python36/Lib" />
-        <root url="file://C:/Program Files/Python36" />
-        <root url="file://C:/work/nbs-crm/python" />
-        <root url="file://C:/work/nbs-crm/python/Lib/site-packages" />
-        <root url="jar://C:/work/nbs-crm/python/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" />
-        <root url="file://C:/work/nbs-crm/python/Lib/site-packages/pip-19.0.3-py3.6.egg" />
+        <root url="file://C:/work/nbs-crm/remote-area-surcharge-ds/venv" />
+        <root url="file://C:/work/nbs-crm/remote-area-surcharge-ds/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/idea/system/python_stubs/-1982676826" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -33,10 +19,9 @@
         <root url="file://C:/Program Files/Python36/DLLs" />
         <root url="file://C:/Program Files/Python36/Lib" />
         <root url="file://C:/Program Files/Python36" />
-        <root url="file://C:/work/nbs-crm/python" />
-        <root url="file://C:/work/nbs-crm/python/Lib/site-packages" />
-        <root url="jar://C:/work/nbs-crm/python/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" />
-        <root url="file://C:/work/nbs-crm/python/Lib/site-packages/pip-19.0.3-py3.6.egg" />
+        <root url="file://C:/work/nbs-crm/remote-area-surcharge-ds/venv" />
+        <root url="file://C:/work/nbs-crm/remote-area-surcharge-ds/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/idea/system/python_stubs/-1982676826" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
