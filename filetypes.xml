@@ -10,6 +10,7 @@
       <mapping pattern="Jenkinsfile_deploy_si" type="PLAIN_TEXT" />
       <mapping pattern="ToDo.txt" type="PLAIN_TEXT" />
       <mapping pattern="checkpoint-1537957910000" type="PLAIN_TEXT" />
+      <mapping pattern=".airflow" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile_build_uk_si" type="PLAIN_TEXT" />
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
