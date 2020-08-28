@@ -18,6 +18,7 @@
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
+      <mapping ext="ipynb" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="0" type="XML" />
