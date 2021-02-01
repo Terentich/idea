@@ -20,6 +20,7 @@
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping ext="0" type="XML" />
+      <removed_mapping ext="qrc" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
