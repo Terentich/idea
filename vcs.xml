@@ -46,6 +46,10 @@
           <option name="url" value="http://git.dhl.com" />
           <option name="userName" value="alexeite" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.evico.novartis.net" />
+          <option name="userName" value="terenal3" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\work\nbs-crm" />
