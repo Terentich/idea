@@ -50,9 +50,13 @@
           <option name="url" value="http://gitlab.evico.novartis.net" />
           <option name="userName" value="terenal3" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.evico.novartis.net/evico_de/commons-ingestion.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\work\nbs-crm" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
