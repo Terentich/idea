@@ -3,6 +3,6 @@
     <option name="COMPILE_SERVER_PORT" value="52947" />
     <option name="COMPILE_SERVER_ID" value="784802e2-9c21-4260-9d16-fec756860a2f" />
     <option name="USE_DEFAULT_SDK" value="false" />
-    <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_SDK" value="corretto-1.8" />
   </component>
 </application>
