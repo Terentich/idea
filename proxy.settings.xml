@@ -1,7 +1,9 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_PROXY_PAC" value="true" />
+    <option name="USE_HTTP_PROXY" value="true" />
+    <option name="PROXY_HOST" value="nibr-proxy.global.nibr.novartis.net" />
+    <option name="PROXY_PORT" value="2011" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://proxypac.novartis.net:2010" />
+    <option name="PAC_URL" value="http://nibr-proxy.global.nibr.novartis.net:2011  " />
   </component>
 </application>
