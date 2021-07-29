@@ -1,34 +1,36 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;gradle;gradlew*;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;gradle;gradlew*;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="test_CI" type="PLAIN_TEXT" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile_deploy_si" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="part-00000" type="PLAIN_TEXT" />
-      <mapping pattern="ToDo.txt" type="PLAIN_TEXT" />
+      <mapping pattern="test_CI" type="PLAIN_TEXT" />
       <mapping pattern="checkpoint-1537957910000" type="PLAIN_TEXT" />
-      <mapping pattern=".airflow" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile_build_uk_si" type="PLAIN_TEXT" />
-      <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern=".agora.crc" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="ToDo.txt" type="PLAIN_TEXT" />
+      <mapping pattern="part-00001" type="PLAIN_TEXT" />
+      <mapping pattern="part-00000" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile_deploy_si" type="PLAIN_TEXT" />
+      <mapping pattern=".airflow" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile_build_uk_si" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping ext="0" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping pattern="Jenkinsfile*" approved="true" type="Groovy" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
