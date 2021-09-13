@@ -5,6 +5,7 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="Scala.Desugar" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
