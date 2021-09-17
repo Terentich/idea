@@ -82,6 +82,10 @@
           <option name="url" value="https://git.epam.com/dionisii_iuzhakov/m08_sparkml_python_azure" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.epam.com/dionisii_iuzhakov/m10_kafkabasics_sql_local.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
