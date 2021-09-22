@@ -40,7 +40,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.epam.com" />
-          <option name="userName" value="Aleksei_Terentev1" />
+          <option name="userName" value="Aleksei_Terentev1@epam.com" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.dhl.com" />
@@ -84,6 +84,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git.epam.com/dionisii_iuzhakov/m10_kafkabasics_sql_local.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.epam.com/dionisii_iuzhakov/m11_kafkaconnect_json_azure" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
