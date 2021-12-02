@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="MDICE-3607 [SAC] Records are duplicated if more than one response within the month" />
+    <option name="defaultScopeName" value="MDICE-3607 [SAC] Records are duplicated if more than one response within the month" />
+    <option name="SEARCH_SCOPE" value="MDICE-3607 [SAC] Records are duplicated if more than one response within the month" />
     <option name="FILE_MASK" value="*" />
     <mask>*.*</mask>
     <mask>*.yaml</mask>
