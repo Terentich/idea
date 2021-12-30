@@ -26,6 +26,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.hadoop.hive.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.spark.internal.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.spark.sql.internal.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.spark.sql.sources.v2.writer.DataWriter" />
     <EXCLUDED_PACKAGE NAME="org.apache.zookeeper.*" />
     <EXCLUDED_PACKAGE NAME="org.glassfish" />
     <EXCLUDED_PACKAGE NAME="org.json4s.scalap.*" />
