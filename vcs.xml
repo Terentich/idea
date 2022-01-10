@@ -98,6 +98,14 @@
           <option name="url" value="https://git.epam.com/dionisii_iuzhakov/m13_sparkstreaming_jvm_azure" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.epam.com/dmitrii_tutevich/m06_sparkbasics_python_azure.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.epam.com:dmitrii_tutevich/m06_sparkbasics_python_azure.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
