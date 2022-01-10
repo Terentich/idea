@@ -22,6 +22,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
+      <mapping ext="qrc" type="XML" />
       <mapping ext="0" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
