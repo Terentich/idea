@@ -5,10 +5,6 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="xlsx" type="MyNativeFile" />
-      <mapping ext="xls" type="MyNativeFile" />
-      <removed_mapping ext="xlsx" type="Native" />
-      <removed_mapping ext="xls" type="Native" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="test_CI" type="PLAIN_TEXT" />
       <mapping pattern="checkpoint-1537957910000" type="PLAIN_TEXT" />
@@ -33,6 +29,8 @@
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping pattern="Jenkinsfile*" approved="true" type="Groovy" />
     </extensionMap>
   </component>
